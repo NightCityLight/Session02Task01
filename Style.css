@@ -1,0 +1,144 @@
+
+
+h1{
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center; 
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-left:40px;
+    margin-right: 100px;
+}
+
+
+body{
+
+    background: blanchedalmond;
+ } 
+  
+
+.T1{
+    display: inline-block;
+    text-align: left; 
+    margin-top:50px;
+    margin-left:80px;
+    margin-right: 50px;
+    color: rgb(59, 104, 189);
+    
+}
+
+.p1{
+    display: inline-block;
+    text-align: right; 
+    margin-top:30px;
+    margin-bottom:0px;
+    margin-left:95px;
+    margin-right: 100px;
+    
+}
+
+
+.T2{
+    display: inline-block;
+    text-align: Center; 
+    margin-top:100px;
+    margin-left:271px;
+    margin-right: 100px;
+    color: rgb(59, 104, 189);
+   
+}
+
+
+.p2{
+    display: inline-block;
+    text-align: Center; 
+    margin-top:30px;
+    margin-bottom:50px;
+    margin-left:330px;
+    margin-right: 100px;
+   
+}
+
+
+.T3{
+    display: inline-block;
+    text-align: right; 
+    margin-top:50px;
+    margin-left:200px;
+    margin-right: 10px;
+    color: rgb(59, 104, 189);
+    
+}
+
+.p3{
+    display: inline-block;
+    text-align: Left; 
+    margin-top:30px;
+    margin-bottom:50px;
+    margin-left:330px;
+    margin-right: 50px;
+   
+}
+
+.T4{
+    display: inline-block;
+    text-align: left; 
+    margin-top:50px;
+    margin-left:80px;
+    margin-right: 40px;
+    color: rgb(59, 104, 189);
+    
+}
+
+.p4{
+    display: inline-block;
+    text-align: right; 
+    margin-top:30px;
+    margin-bottom:0px;
+    margin-left:95px;
+    margin-right: 100px;
+    
+}
+
+
+.T5{
+    display: inline-block;
+    text-align: Center; 
+    margin-top:100px;
+    margin-left:180px;
+    margin-right: 50px;
+    color: rgb(59, 104, 189);
+   
+}
+
+
+.p5{
+    display: inline-block;
+    text-align: Center; 
+    margin-top:30px;
+    margin-bottom:50px;
+    margin-left:330px;
+    margin-right: 100px;
+   
+}
+
+
+.T6{
+    display: inline-block;
+    text-align: right; 
+    margin-top:50px;
+    margin-left:275px;
+    margin-right: 10px;
+    color: rgb(59, 104, 189);
+    
+}
+
+.p6{
+    display: inline-block;
+    text-align: Left; 
+    margin-top:30px;
+    margin-bottom:50px;
+    margin-left:350px;
+    margin-right: 50px;
+   
+}
+
